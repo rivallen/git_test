@@ -1,0 +1,2 @@
+adding some initial text pre-commit
+lets see how it goes
