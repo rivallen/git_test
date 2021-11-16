@@ -1,2 +1,3 @@
 adding some initial text pre-commit
 lets see how it goes
+hi shannon lets both do some commits
